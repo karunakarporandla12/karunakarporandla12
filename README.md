@@ -83,7 +83,7 @@ Golang is built for performance and concurrency, making it one of the best choic
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-18-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Public%20Repos-3-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Private%20Repos-15-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repositories-20-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public%20Repos-2-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Private%20Repos-18-lightgrey?style=for-the-badge" />
 </p>
