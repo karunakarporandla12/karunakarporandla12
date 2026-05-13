@@ -1,6 +1,22 @@
 # Hi, I'm Karunakar 👋
 
-🚀 Senior Backend Engineer specializing in **Golang & Distributed Systems**
+🔭 Currently:
+Building scalable web applications using Golang, with hands-on experience in PostgreSQL and MySQL. Working with AWS services such as EC2, S3, RDS, and Lambda to design reliable cloud-based systems. Also exploring Azure basics.
+
+👯 Open to Collaborate:
+Interested in contributing to open-source projects in backend development, Golang, and cloud-based architectures.
+
+🤝 Looking For:
+Opportunities to improve system performance, scalability, and efficient handling of large-scale data in Go-based applications.
+
+🌱 Currently Learning:
+Advanced Golang concepts, system design, and backend optimization techniques to build high-performance applications.
+
+💬 Ask Me About:
+Backend development, Golang best practices, API design, and scalable system architecture.
+
+⚡ Fun Fact:
+Golang is built for performance and concurrency, making it one of the best choices for modern backend systems
 
 ---
 
@@ -34,5 +50,5 @@
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/karunakarporandla/
 ``
